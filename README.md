@@ -1,1 +1,1 @@
-# JavaScript-Traffic
+# JavaScript-Traffic Light Project
